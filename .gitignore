@@ -1,0 +1,5 @@
+config.php
+goblogfiles/
+*.zip
+*.tar
+*.tar.gz
